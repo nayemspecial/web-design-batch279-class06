@@ -1,0 +1,15 @@
+.margin-padding {
+    width: 500px;
+    /*height: 150px;
+    background-color: #f3f3f3;
+    margin: 40px 30px 76px 139px;
+    padding: 40px;*/
+    border: 2px solid #acacac;
+    display: inline-block;
+}
+
+table, td{
+    border-collapse: collapse;
+    padding: 20px 30px;
+}
+
